@@ -1,6 +1,0 @@
-README.md
-setup.py
-quadratic_equation_giarts.egg-info/PKG-INFO
-quadratic_equation_giarts.egg-info/SOURCES.txt
-quadratic_equation_giarts.egg-info/dependency_links.txt
-quadratic_equation_giarts.egg-info/top_level.txt
