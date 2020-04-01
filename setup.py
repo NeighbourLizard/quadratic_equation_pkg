@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="quadratic_equation_giarts",
-    version="0.0.2",
+    version="0.0.3",
     author="Giorgi Artsivadze",
     author_email="giarts@taltech.ee",
     description="Quadratic Equation Solver",
