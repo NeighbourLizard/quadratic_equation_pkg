@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="quadratic_equation_giarts", # Replace with your own username
+    name="quadratic_equation_giarts",
     version="0.0.1",
     author="Giorgi Artsivadze",
     author_email="giarts@taltech.ee",
-    description="homework for Advanced Python class",
+    description="Quadratic Equation Solver",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/NeighbourLizard/quadratic_equation_pkg",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
